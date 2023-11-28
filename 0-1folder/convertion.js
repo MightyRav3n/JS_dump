@@ -18,4 +18,4 @@ console.log(valueIns)
 
 // for typecasting to boolean  1 for true o for false 
 
-x
+
